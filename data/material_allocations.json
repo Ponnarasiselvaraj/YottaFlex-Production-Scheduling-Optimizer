@@ -1,0 +1,402 @@
+[
+  {
+    "allocation_id":"ALLOC-0000001",
+    "order_id":"ORD-2026-000017",
+    "material_id":"MAT-0017",
+    "lot_id":"LOT-0017-01",
+    "allocated_quantity":22.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T10:22:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000002",
+    "order_id":"ORD-2026-000017",
+    "material_id":"MAT-0030",
+    "lot_id":"LOT-0030-01",
+    "allocated_quantity":22.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T10:22:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000003",
+    "order_id":"ORD-2026-000008",
+    "material_id":"MAT-0008",
+    "lot_id":"LOT-0008-01",
+    "allocated_quantity":28.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T10:18:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000004",
+    "order_id":"ORD-2026-000008",
+    "material_id":"MAT-0027",
+    "lot_id":"LOT-0027-01",
+    "allocated_quantity":28.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T10:18:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000005",
+    "order_id":"ORD-2026-000009",
+    "material_id":"MAT-0004",
+    "lot_id":"LOT-0004-01",
+    "allocated_quantity":24.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T13:08:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000006",
+    "order_id":"ORD-2026-000009",
+    "material_id":"MAT-0009",
+    "lot_id":"LOT-0009-01",
+    "allocated_quantity":24.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T13:08:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000007",
+    "order_id":"ORD-2026-000015",
+    "material_id":"MAT-0015",
+    "lot_id":"LOT-0015-01",
+    "allocated_quantity":20.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T13:23:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000008",
+    "order_id":"ORD-2026-000015",
+    "material_id":"MAT-0016",
+    "lot_id":"LOT-0016-01",
+    "allocated_quantity":20.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T13:23:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000009",
+    "order_id":"ORD-2026-000013",
+    "material_id":"MAT-0002",
+    "lot_id":"LOT-0002-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-18T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000010",
+    "order_id":"ORD-2026-000013",
+    "material_id":"MAT-0013",
+    "lot_id":"LOT-0013-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-18 08:00:00",
+    "consumption_time":"2026-11-18T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000011",
+    "order_id":"ORD-2026-000007",
+    "material_id":"MAT-0007",
+    "lot_id":"LOT-0007-01",
+    "allocated_quantity":28.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T12:32:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000012",
+    "order_id":"ORD-2026-000007",
+    "material_id":"MAT-0020",
+    "lot_id":"LOT-0020-01",
+    "allocated_quantity":28.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T12:32:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000013",
+    "order_id":"ORD-2026-000010",
+    "material_id":"MAT-0010",
+    "lot_id":"LOT-0010-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T12:24:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000014",
+    "order_id":"ORD-2026-000010",
+    "material_id":"MAT-0011",
+    "lot_id":"LOT-0011-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T12:24:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000015",
+    "order_id":"ORD-2026-000006",
+    "material_id":"MAT-0006",
+    "lot_id":"LOT-0006-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-18T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000016",
+    "order_id":"ORD-2026-000006",
+    "material_id":"MAT-0013",
+    "lot_id":"LOT-0013-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-18 08:00:00",
+    "consumption_time":"2026-11-18T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000017",
+    "order_id":"ORD-2026-000016",
+    "material_id":"MAT-0016",
+    "lot_id":"LOT-0016-01",
+    "allocated_quantity":22.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T08:59:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000018",
+    "order_id":"ORD-2026-000016",
+    "material_id":"MAT-0023",
+    "lot_id":"LOT-0023-01",
+    "allocated_quantity":22.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T08:59:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000019",
+    "order_id":"ORD-2026-000014",
+    "material_id":"MAT-0009",
+    "lot_id":"LOT-0009-01",
+    "allocated_quantity":32.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T12:20:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000020",
+    "order_id":"ORD-2026-000014",
+    "material_id":"MAT-0014",
+    "lot_id":"LOT-0014-01",
+    "allocated_quantity":32.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T12:20:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000021",
+    "order_id":"ORD-2026-000005",
+    "material_id":"MAT-0005",
+    "lot_id":"LOT-0005-01",
+    "allocated_quantity":26.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T14:19:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000022",
+    "order_id":"ORD-2026-000005",
+    "material_id":"MAT-0006",
+    "lot_id":"LOT-0006-01",
+    "allocated_quantity":26.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T14:19:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000023",
+    "order_id":"ORD-2026-000004",
+    "material_id":"MAT-0004",
+    "lot_id":"LOT-0004-01",
+    "allocated_quantity":34.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000024",
+    "order_id":"ORD-2026-000004",
+    "material_id":"MAT-0029",
+    "lot_id":"LOT-0029-01",
+    "allocated_quantity":34.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000025",
+    "order_id":"ORD-2026-000018",
+    "material_id":"MAT-0007",
+    "lot_id":"LOT-0007-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000026",
+    "order_id":"ORD-2026-000018",
+    "material_id":"MAT-0018",
+    "lot_id":"LOT-0018-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000027",
+    "order_id":"ORD-2026-000002",
+    "material_id":"MAT-0002",
+    "lot_id":"LOT-0002-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-18T12:22:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000028",
+    "order_id":"ORD-2026-000002",
+    "material_id":"MAT-0015",
+    "lot_id":"LOT-0015-01",
+    "allocated_quantity":30.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-18T12:22:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000029",
+    "order_id":"ORD-2026-000012",
+    "material_id":"MAT-0012",
+    "lot_id":"LOT-0012-01",
+    "allocated_quantity":46.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-18T10:09:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000030",
+    "order_id":"ORD-2026-000012",
+    "material_id":"MAT-0025",
+    "lot_id":"LOT-0025-01",
+    "allocated_quantity":46.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-18T10:09:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000031",
+    "order_id":"ORD-2026-000020",
+    "material_id":"MAT-0020",
+    "lot_id":"LOT-0020-01",
+    "allocated_quantity":28.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000032",
+    "order_id":"ORD-2026-000020",
+    "material_id":"MAT-0021",
+    "lot_id":"LOT-0021-01",
+    "allocated_quantity":28.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000033",
+    "order_id":"ORD-2026-000011",
+    "material_id":"MAT-0011",
+    "lot_id":"LOT-0011-01",
+    "allocated_quantity":36.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T09:10:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000034",
+    "order_id":"ORD-2026-000011",
+    "material_id":"MAT-0018",
+    "lot_id":"LOT-0018-01",
+    "allocated_quantity":36.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T09:10:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000035",
+    "order_id":"ORD-2026-000001",
+    "material_id":"MAT-0001",
+    "lot_id":"LOT-0001-01",
+    "allocated_quantity":36.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T10:51:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000036",
+    "order_id":"ORD-2026-000001",
+    "material_id":"MAT-0008",
+    "lot_id":"LOT-0008-01",
+    "allocated_quantity":36.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T10:51:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000037",
+    "order_id":"ORD-2026-000003",
+    "material_id":"MAT-0003",
+    "lot_id":"LOT-0003-01",
+    "allocated_quantity":38.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000038",
+    "order_id":"ORD-2026-000003",
+    "material_id":"MAT-0022",
+    "lot_id":"LOT-0022-01",
+    "allocated_quantity":38.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-17T08:00:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000039",
+    "order_id":"ORD-2026-000019",
+    "material_id":"MAT-0014",
+    "lot_id":"LOT-0014-01",
+    "allocated_quantity":20.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T09:56:00",
+    "allocation_status":"CONSUMED"
+  },
+  {
+    "allocation_id":"ALLOC-0000040",
+    "order_id":"ORD-2026-000019",
+    "material_id":"MAT-0019",
+    "lot_id":"LOT-0019-01",
+    "allocated_quantity":20.0,
+    "available_at":"2026-11-15 08:00:00",
+    "consumption_time":"2026-11-16T09:56:00",
+    "allocation_status":"CONSUMED"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "machine_id":"MACH-001",
+    "machine_name":"Machine 001",
+    "machine_type":"CELL-1",
+    "capacity_units_per_hour":9,
+    "calendar_id":"CAL-001",
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "machine_id":"MACH-002",
+    "machine_name":"Machine 002",
+    "machine_type":"CELL-2",
+    "capacity_units_per_hour":9,
+    "calendar_id":"CAL-002",
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "machine_id":"MACH-003",
+    "machine_name":"Machine 003",
+    "machine_type":"CELL-3",
+    "capacity_units_per_hour":13,
+    "calendar_id":"CAL-003",
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "machine_id":"MACH-004",
+    "machine_name":"Machine 004",
+    "machine_type":"CELL-4",
+    "capacity_units_per_hour":8,
+    "calendar_id":"CAL-004",
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "machine_id":"MACH-005",
+    "machine_name":"Machine 005",
+    "machine_type":"CELL-1",
+    "capacity_units_per_hour":17,
+    "calendar_id":"CAL-005",
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "machine_id":"MACH-006",
+    "machine_name":"Machine 006",
+    "machine_type":"CELL-2",
+    "capacity_units_per_hour":10,
+    "calendar_id":"CAL-006",
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "machine_id":"MACH-007",
+    "machine_name":"Machine 007",
+    "machine_type":"CELL-3",
+    "capacity_units_per_hour":18,
+    "calendar_id":"CAL-007",
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "machine_id":"MACH-008",
+    "machine_name":"Machine 008",
+    "machine_type":"CELL-4",
+    "capacity_units_per_hour":11,
+    "calendar_id":"CAL-008",
+    "lifecycle_state":"ACTIVE"
+  }
+]

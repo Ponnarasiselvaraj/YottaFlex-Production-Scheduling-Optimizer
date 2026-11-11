@@ -1,0 +1,9 @@
+calendar_id,machine_id,shift_start,shift_end,working_days,timezone
+CAL-001,MACH-001,08:00,16:00,"0,1,2,3,4",Asia/Kolkata
+CAL-002,MACH-002,08:00,16:00,"0,1,2,3,4",Asia/Kolkata
+CAL-003,MACH-003,08:00,16:00,"0,1,2,3,4",Asia/Kolkata
+CAL-004,MACH-004,08:00,16:00,"0,1,2,3,4",Asia/Kolkata
+CAL-005,MACH-005,08:00,16:00,"0,1,2,3,4",Asia/Kolkata
+CAL-006,MACH-006,08:00,16:00,"0,1,2,3,4",Asia/Kolkata
+CAL-007,MACH-007,08:00,16:00,"0,1,2,3,4",Asia/Kolkata
+CAL-008,MACH-008,08:00,16:00,"0,1,2,3,4",Asia/Kolkata

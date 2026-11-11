@@ -1,0 +1,26 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local settings
+.env
+.env.*
+!.env.example
+
+# Generated files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml

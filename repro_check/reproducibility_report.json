@@ -1,0 +1,39 @@
+{
+  "seed": 20261022,
+  "scale": "starter",
+  "identical": true,
+  "checksums_run_a": {
+    "changeover_matrix.csv": "9299ef4d4fc9be776f0de505b6f65c97bd793f01f7e7634b535fc24110e16547",
+    "inventory_lots.csv": "c8e8cf0e0085adc5e3bcf286f3b54b46c68bbbd70c7bf0fc7256b067e262b21f",
+    "machine_calendars.csv": "25b4d5b5f76b781518dc9d19b7951510ab7c2e8348f13013990ad8a2e53cacad",
+    "machine_downtime.csv": "f8843e56bac29082b5f85a301c46cb2cb725e3749cbba394adeb142340bdcfaa",
+    "machine_eligibility.csv": "38cccbfd067c257847f214695a4ea81bea9e8b48fe4b04ad863dce47a4a299c1",
+    "machines.csv": "41a03a8b94dd255f2a04772e08e335a832cc207b8daa169b9c6aea1c5f2f1ed2",
+    "material_requirements.csv": "0214322d966c77b797fd08451134d62577e60b31a8ad24ac47023e11f9fb7d69",
+    "materials.csv": "426c583866fb090c77861852b2ac0eca63193d66aeaa76d48eed3978f210eb80",
+    "operations.csv": "92f98e0ffae99648c11aad481d385a177c7d4899c3016ef2527e33baf93e3eee",
+    "production_orders.csv": "91599d96d58d19b8687d241952f10dc8476fe6d757c3bf728aa1091550cc6043",
+    "products.csv": "8ccc96613352b8b0805f02ca6b081298777c7730c29e01646a1b931f68b3ce3f",
+    "route_operations.csv": "8f308f6dc36cad5a39847b7db41523b28d730731dd30b68ce96fa840f265a388",
+    "routings.csv": "7eea1adffaa24fd2da45e73264653b916521b65302226a4b8567fd0ae4578ed5",
+    "tool_requirements.csv": "471dfa959e7c127bb071dbe21bb6d753ea112503ec836d191997c18ff9fc9a86",
+    "tools.csv": "52ebbc97391dd47ac35ea71ed0f6f74a748d97e93effbfb029e66edcc3e52ff5"
+  },
+  "checksums_run_b": {
+    "changeover_matrix.csv": "9299ef4d4fc9be776f0de505b6f65c97bd793f01f7e7634b535fc24110e16547",
+    "inventory_lots.csv": "c8e8cf0e0085adc5e3bcf286f3b54b46c68bbbd70c7bf0fc7256b067e262b21f",
+    "machine_calendars.csv": "25b4d5b5f76b781518dc9d19b7951510ab7c2e8348f13013990ad8a2e53cacad",
+    "machine_downtime.csv": "f8843e56bac29082b5f85a301c46cb2cb725e3749cbba394adeb142340bdcfaa",
+    "machine_eligibility.csv": "38cccbfd067c257847f214695a4ea81bea9e8b48fe4b04ad863dce47a4a299c1",
+    "machines.csv": "41a03a8b94dd255f2a04772e08e335a832cc207b8daa169b9c6aea1c5f2f1ed2",
+    "material_requirements.csv": "0214322d966c77b797fd08451134d62577e60b31a8ad24ac47023e11f9fb7d69",
+    "materials.csv": "426c583866fb090c77861852b2ac0eca63193d66aeaa76d48eed3978f210eb80",
+    "operations.csv": "92f98e0ffae99648c11aad481d385a177c7d4899c3016ef2527e33baf93e3eee",
+    "production_orders.csv": "91599d96d58d19b8687d241952f10dc8476fe6d757c3bf728aa1091550cc6043",
+    "products.csv": "8ccc96613352b8b0805f02ca6b081298777c7730c29e01646a1b931f68b3ce3f",
+    "route_operations.csv": "8f308f6dc36cad5a39847b7db41523b28d730731dd30b68ce96fa840f265a388",
+    "routings.csv": "7eea1adffaa24fd2da45e73264653b916521b65302226a4b8567fd0ae4578ed5",
+    "tool_requirements.csv": "471dfa959e7c127bb071dbe21bb6d753ea112503ec836d191997c18ff9fc9a86",
+    "tools.csv": "52ebbc97391dd47ac35ea71ed0f6f74a748d97e93effbfb029e66edcc3e52ff5"
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "scenario_id":"ANOM-001",
+    "issue_type":"OVERLAP_ON_MACHINE",
+    "ground_truth_label":1,
+    "expected_detection":true,
+    "description":"Two operations overlap on the same machine."
+  },
+  {
+    "scenario_id":"ANOM-002",
+    "issue_type":"PRECEDENCE_VIOLATION",
+    "ground_truth_label":1,
+    "expected_detection":true,
+    "description":"Operation starts before its predecessor finishes."
+  },
+  {
+    "scenario_id":"ANOM-003",
+    "issue_type":"MATERIAL_BEFORE_AVAILABLE",
+    "ground_truth_label":1,
+    "expected_detection":true,
+    "description":"Material consumption precedes inventory lot availability."
+  },
+  {
+    "scenario_id":"ANOM-004",
+    "issue_type":"OUTSIDE_SHIFT",
+    "ground_truth_label":1,
+    "expected_detection":true,
+    "description":"Operation is deliberately placed outside the machine shift."
+  },
+  {
+    "scenario_id":"ANOM-005",
+    "issue_type":"CHANGEOVER_OMITTED",
+    "ground_truth_label":1,
+    "expected_detection":true,
+    "description":"A family transition has less setup time than required by the matrix."
+  }
+]

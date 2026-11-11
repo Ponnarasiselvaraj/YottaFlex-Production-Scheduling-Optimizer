@@ -1,0 +1,6 @@
+scenario_id,issue_type,description,machine_id,start_time,end_time,conflict_start,conflict_end,conflicting_schedule_id,order_id,operation_id,predecessor_operation_id,predecessor_end_time,material_id,lot_id,material_available_at,material_consumption_time,shift_start,shift_end,working_days,from_family,to_family,expected_changeover_minutes,observed_changeover_minutes
+ANOM-001,OVERLAP_ON_MACHINE,Two operations overlap on the same machine.,MACH-005,2026-11-16T10:56:00,2026-11-16T12:05:00,2026-11-16T10:51:00,2026-11-16T12:00:00,SCH-OPT-000001,,,,,,,,,,,,,,,
+ANOM-002,PRECEDENCE_VIOLATION,Operation starts before its predecessor finishes.,,2026-11-16T11:50:00,2026-11-16T13:10:00,,,,ORD-2026-000001,OP-ORD-2026-000001-02,OP-ORD-2026-000001-01,2026-11-16T12:00:00,,,,,,,,,,,
+ANOM-003,MATERIAL_BEFORE_AVAILABLE,Material consumption precedes inventory lot availability.,,,,,,,ORD-2026-000001,,,,MAT-0001,LOT-0001-01,2026-11-15T08:00:00,2026-11-14T08:00:00,,,,,,,
+ANOM-004,OUTSIDE_SHIFT,Operation is deliberately placed outside the machine shift.,MACH-005,2026-11-16T02:00:00,2026-11-16T03:09:00,,,,,,,,,,,,08:00,16:00,"0,1,2,3,4",,,,
+ANOM-005,CHANGEOVER_OMITTED,A family transition has less setup time than required by the matrix.,MACH-001,,,,,,,OP-ORD-2026-000017-01,,,,,,,,,,FAMILY-3,FAMILY-2,20.0,0.0

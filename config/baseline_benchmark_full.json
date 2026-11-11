@@ -1,0 +1,23 @@
+{
+  "scale": "full",
+  "seed": 20261022,
+  "scheduler": "Earliest estimated completion, then lower changeover",
+  "total_orders": 500,
+  "scheduled_operations": 2000,
+  "makespan_hours": 4369.13,
+  "total_tardiness_hours": 329785.48,
+  "on_time_delivery_pct": 19.6,
+  "changeover_minutes": 33030,
+  "weighted_tardiness_hours": 469415.75,
+  "objective_score": 0.498791,
+  "objective_weights": {
+    "makespan": 0.35,
+    "weighted_tardiness": 0.5,
+    "changeover": 0.15
+  },
+  "normalization": {
+    "makespan_hours": 7000.0,
+    "weighted_tardiness_hours": 1500000.0,
+    "changeover_minutes": 40000.0
+  }
+}

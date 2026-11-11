@@ -1,0 +1,6 @@
+scenario_id,issue_type,ground_truth_label,expected_detection,description
+ANOM-001,OVERLAP_ON_MACHINE,1,True,Two operations overlap on the same machine.
+ANOM-002,PRECEDENCE_VIOLATION,1,True,Operation starts before its predecessor finishes.
+ANOM-003,MATERIAL_BEFORE_AVAILABLE,1,True,Material consumption precedes inventory lot availability.
+ANOM-004,OUTSIDE_SHIFT,1,True,Operation is deliberately placed outside the machine shift.
+ANOM-005,CHANGEOVER_OMITTED,1,True,A family transition has less setup time than required by the matrix.

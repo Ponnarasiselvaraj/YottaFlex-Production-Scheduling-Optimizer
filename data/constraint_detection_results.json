@@ -1,0 +1,37 @@
+[
+  {
+    "scenario_id":"ANOM-001",
+    "detected_issue_type":"OVERLAP_ON_MACHINE",
+    "detected":true,
+    "detector_rule":"OVERLAP_ON_MACHINE",
+    "evidence":"Intervals [2026-11-16 10:56:00, 2026-11-16 12:05:00) and [2026-11-16 10:51:00, 2026-11-16 12:00:00) overlap on MACH-005"
+  },
+  {
+    "scenario_id":"ANOM-002",
+    "detected_issue_type":"PRECEDENCE_VIOLATION",
+    "detected":true,
+    "detector_rule":"PRECEDENCE_VIOLATION",
+    "evidence":"Operation starts 2026-11-16 11:50:00 before predecessor ends 2026-11-16 12:00:00"
+  },
+  {
+    "scenario_id":"ANOM-003",
+    "detected_issue_type":"MATERIAL_BEFORE_AVAILABLE",
+    "detected":true,
+    "detector_rule":"MATERIAL_BEFORE_AVAILABLE",
+    "evidence":"Consumption 2026-11-14 08:00:00 precedes lot availability 2026-11-15 08:00:00"
+  },
+  {
+    "scenario_id":"ANOM-004",
+    "detected_issue_type":"OUTSIDE_SHIFT",
+    "detected":true,
+    "detector_rule":"OUTSIDE_SHIFT",
+    "evidence":"Interval 2026-11-16 02:00:00 to 2026-11-16 03:09:00 violates shift 08:00-16:00"
+  },
+  {
+    "scenario_id":"ANOM-005",
+    "detected_issue_type":"CHANGEOVER_OMITTED",
+    "detected":true,
+    "detector_rule":"CHANGEOVER_OMITTED",
+    "evidence":"Recorded setup 0m is below required 20m"
+  }
+]

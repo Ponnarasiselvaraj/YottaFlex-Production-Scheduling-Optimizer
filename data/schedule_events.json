@@ -1,0 +1,642 @@
+[
+  {
+    "event_id":"EVT-OPT-0000001",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000001",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T10:51:00",
+    "details":"machine=MACH-005; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000002",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000002",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T11:53:00",
+    "details":"machine=MACH-002; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000003",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000003",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T14:23:00",
+    "details":"machine=MACH-007; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000004",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000004",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T08:00:00",
+    "details":"machine=MACH-008; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000005",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000005",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T12:22:00",
+    "details":"machine=MACH-001; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000006",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000006",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T09:58:00",
+    "details":"machine=MACH-006; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000007",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000007",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T11:44:00",
+    "details":"machine=MACH-007; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000008",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000008",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T12:38:00",
+    "details":"machine=MACH-004; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000009",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000009",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T08:00:00",
+    "details":"machine=MACH-001; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000010",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000010",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T14:06:00",
+    "details":"machine=MACH-006; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000011",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000011",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T08:01:00",
+    "details":"machine=MACH-003; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000012",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000012",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T12:00:00",
+    "details":"machine=MACH-004; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000013",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000013",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T08:00:00",
+    "details":"machine=MACH-005; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000014",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000014",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T08:00:00",
+    "details":"machine=MACH-002; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000015",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000015",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T09:58:00",
+    "details":"machine=MACH-007; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000016",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000016",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T10:41:00",
+    "details":"machine=MACH-008; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000017",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000017",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T14:19:00",
+    "details":"machine=MACH-005; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000018",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000018",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T10:44:00",
+    "details":"machine=MACH-006; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000019",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000019",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T11:53:00",
+    "details":"machine=MACH-003; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000020",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000020",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T12:42:00",
+    "details":"machine=MACH-008; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000021",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000021",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T08:00:00",
+    "details":"machine=MACH-005; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000022",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000022",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T11:43:00",
+    "details":"machine=MACH-002; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000023",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000023",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T13:27:00",
+    "details":"machine=MACH-007; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000024",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000024",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T14:09:00",
+    "details":"machine=MACH-008; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000025",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000025",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T12:32:00",
+    "details":"machine=MACH-001; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000026",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000026",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T11:22:00",
+    "details":"machine=MACH-002; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000027",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000027",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T12:58:00",
+    "details":"machine=MACH-003; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000028",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000028",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T08:00:00",
+    "details":"machine=MACH-004; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000029",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000029",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T10:18:00",
+    "details":"machine=MACH-001; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000030",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000030",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T13:13:00",
+    "details":"machine=MACH-006; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000031",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000031",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T14:06:00",
+    "details":"machine=MACH-003; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000032",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000032",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T08:00:00",
+    "details":"machine=MACH-004; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000033",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000033",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T13:08:00",
+    "details":"machine=MACH-005; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000034",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000034",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T14:47:00",
+    "details":"machine=MACH-002; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000035",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000035",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T11:25:00",
+    "details":"machine=MACH-007; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000036",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000036",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T09:18:00",
+    "details":"machine=MACH-008; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000037",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000037",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T12:24:00",
+    "details":"machine=MACH-001; setup=40; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000038",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000038",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T13:51:00",
+    "details":"machine=MACH-006; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000039",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000039",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T12:42:00",
+    "details":"machine=MACH-003; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000040",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000040",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T13:58:00",
+    "details":"machine=MACH-008; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000041",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000041",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T09:10:00",
+    "details":"machine=MACH-005; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000042",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000042",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T08:00:00",
+    "details":"machine=MACH-002; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000043",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000043",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T09:21:00",
+    "details":"machine=MACH-007; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000044",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000044",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T13:25:00",
+    "details":"machine=MACH-008; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000045",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000045",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T10:09:00",
+    "details":"machine=MACH-001; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000046",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000046",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T12:22:00",
+    "details":"machine=MACH-002; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000047",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000047",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T08:00:00",
+    "details":"machine=MACH-007; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000048",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000048",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-19T09:28:00",
+    "details":"machine=MACH-004; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000049",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000049",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T08:00:00",
+    "details":"machine=MACH-001; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000050",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000050",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T09:49:00",
+    "details":"machine=MACH-006; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000051",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000051",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T11:19:00",
+    "details":"machine=MACH-003; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000052",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000052",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T13:52:00",
+    "details":"machine=MACH-004; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000053",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000053",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T12:20:00",
+    "details":"machine=MACH-005; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000054",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000054",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T08:53:00",
+    "details":"machine=MACH-002; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000055",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000055",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T10:44:00",
+    "details":"machine=MACH-007; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000056",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000056",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T14:43:00",
+    "details":"machine=MACH-008; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000057",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000057",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T13:23:00",
+    "details":"machine=MACH-001; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000058",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000058",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T08:00:00",
+    "details":"machine=MACH-006; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000059",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000059",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T08:53:00",
+    "details":"machine=MACH-003; setup=40; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000060",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000060",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T09:31:00",
+    "details":"machine=MACH-008; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000061",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000061",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T08:59:00",
+    "details":"machine=MACH-005; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000062",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000062",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T09:36:00",
+    "details":"machine=MACH-002; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000063",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000063",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T10:52:00",
+    "details":"machine=MACH-007; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000064",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000064",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T11:23:00",
+    "details":"machine=MACH-008; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000065",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000065",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T10:22:00",
+    "details":"machine=MACH-001; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000066",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000066",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T13:04:00",
+    "details":"machine=MACH-002; setup=30; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000067",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000067",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T14:35:00",
+    "details":"machine=MACH-003; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000068",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000068",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T10:22:00",
+    "details":"machine=MACH-004; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000069",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000069",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T08:00:00",
+    "details":"machine=MACH-001; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000070",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000070",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T12:08:00",
+    "details":"machine=MACH-006; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000071",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000071",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T13:04:00",
+    "details":"machine=MACH-003; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000072",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000072",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-17T08:00:00",
+    "details":"machine=MACH-004; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000073",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000073",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T09:56:00",
+    "details":"machine=MACH-005; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000074",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000074",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T11:12:00",
+    "details":"machine=MACH-002; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000075",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000075",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T12:08:00",
+    "details":"machine=MACH-007; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000076",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000076",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T12:38:00",
+    "details":"machine=MACH-008; setup=20; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000077",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000077",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T08:00:00",
+    "details":"machine=MACH-005; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000078",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000078",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T08:30:00",
+    "details":"machine=MACH-006; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000079",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000079",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-16T10:59:00",
+    "details":"machine=MACH-003; setup=0; reason="
+  },
+  {
+    "event_id":"EVT-OPT-0000080",
+    "entity_type":"OperationSchedule",
+    "entity_id":"SCH-OPT-000080",
+    "event_type":"SCHEDULE_CREATED",
+    "event_time":"2026-11-18T12:00:00",
+    "details":"machine=MACH-008; setup=0; reason="
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "solver": "OR-Tools CP-SAT",
+  "status": "FEASIBLE",
+  "optimality_proven": false,
+  "objective_value": 27949165087.0,
+  "best_objective_bound": 26688332258.0,
+  "absolute_gap": 1260832829.0,
+  "wall_time_seconds": 600.3133735,
+  "branches": 53681,
+  "conflicts": 196,
+  "workers": 8,
+  "time_limit_seconds": 600.0,
+  "scheduled_operations": 80,
+  "unscheduled_operations": 0,
+  "objective_weights": {
+    "makespan": 0.35,
+    "weighted_tardiness": 0.5,
+    "changeover": 0.15
+  },
+  "model_scope": "finite-horizon, integer-minute CP-SAT model; machine assignment, precedence, shifts, downtime, shared tools, and sequence-dependent setup"
+}

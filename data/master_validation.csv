@@ -1,0 +1,11 @@
+table,rows,primary_key,unique,null_primary_keys
+products,10,product_id,True,0
+machines,8,machine_id,True,0
+materials,30,material_id,True,0
+tools,6,tool_id,True,0
+routings,10,routing_id,True,0
+route_operations,40,route_operation_id,True,0
+machine_calendars,8,calendar_id,True,0
+inventory_lots,30,lot_id,True,0
+production_orders,20,order_id,True,0
+operations,80,operation_id,True,0

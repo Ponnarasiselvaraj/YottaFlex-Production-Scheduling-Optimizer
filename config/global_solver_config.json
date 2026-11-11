@@ -1,0 +1,5 @@
+{
+  "horizon_days": 180,
+  "time_limit_seconds": 120,
+  "workers": 8
+}

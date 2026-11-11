@@ -1,0 +1,41 @@
+{
+  "baseline_comparison": {},
+  "total_orders": 20,
+  "optimization_objective": {
+    "makespan_hours": 78.98,
+    "weighted_tardiness_hours": 0.0,
+    "changeover_minutes": 1070,
+    "normalized_components": {
+      "makespan": 0.011283,
+      "weighted_tardiness": 0.0,
+      "changeover": 0.02675
+    },
+    "objective_weights": {
+      "makespan": 0.35,
+      "weighted_tardiness": 0.5,
+      "changeover": 0.15
+    },
+    "objective_score": 0.007962
+  },
+  "scheduled_operations": 80,
+  "unscheduled_operations": 0,
+  "makespan_hours": 78.98,
+  "total_tardiness_hours": 0.0,
+  "on_time_delivery_pct": 100.0,
+  "changeover_minutes": 1070,
+  "machines_used": 8,
+  "schedule_feasibility_pct": 100.0,
+  "material_allocations": 40,
+  "material_consumed_quantity": 1180.0,
+  "inventory_remaining_quantity": 298820.0,
+  "tool_types": 6,
+  "constraint_detection": {
+    "true_positives": 5,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "scenarios": 5
+  }
+}

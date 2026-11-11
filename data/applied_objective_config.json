@@ -1,0 +1,19 @@
+{
+  "weights": {
+    "makespan": 0.35,
+    "weighted_tardiness": 0.5,
+    "changeover": 0.15
+  },
+  "normalization": {
+    "makespan_hours": 7000.0,
+    "weighted_tardiness_hours": 1500000.0,
+    "changeover_minutes": 40000.0
+  },
+  "priority_tardiness_weights": {
+    "URGENT": 4.0,
+    "HIGH": 3.0,
+    "NORMAL": 2.0,
+    "LOW": 1.0
+  },
+  "description": "Weighted-sum objective. Adjust weights to change the trade-off; weights are normalized automatically."
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "downtime_id":"DOWN-MACH-004",
+    "machine_id":"MACH-004",
+    "start_time":"2026-11-18T10:00:00",
+    "end_time":"2026-11-18T12:00:00",
+    "reason":"PLANNED_MAINTENANCE"
+  },
+  {
+    "downtime_id":"DOWN-MACH-008",
+    "machine_id":"MACH-008",
+    "start_time":"2026-11-18T10:00:00",
+    "end_time":"2026-11-18T12:00:00",
+    "reason":"PLANNED_MAINTENANCE"
+  }
+]

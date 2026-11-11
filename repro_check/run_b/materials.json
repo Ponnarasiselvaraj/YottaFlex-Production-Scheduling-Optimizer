@@ -1,0 +1,212 @@
+[
+  {
+    "material_id":"MAT-0001",
+    "material_name":"Material 001",
+    "unit":"kg",
+    "safety_stock":21,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0002",
+    "material_name":"Material 002",
+    "unit":"kg",
+    "safety_stock":7,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0003",
+    "material_name":"Material 003",
+    "unit":"kg",
+    "safety_stock":11,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0004",
+    "material_name":"Material 004",
+    "unit":"kg",
+    "safety_stock":10,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0005",
+    "material_name":"Material 005",
+    "unit":"kg",
+    "safety_stock":5,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0006",
+    "material_name":"Material 006",
+    "unit":"kg",
+    "safety_stock":19,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0007",
+    "material_name":"Material 007",
+    "unit":"kg",
+    "safety_stock":18,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0008",
+    "material_name":"Material 008",
+    "unit":"kg",
+    "safety_stock":14,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0009",
+    "material_name":"Material 009",
+    "unit":"kg",
+    "safety_stock":6,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0010",
+    "material_name":"Material 010",
+    "unit":"kg",
+    "safety_stock":8,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0011",
+    "material_name":"Material 011",
+    "unit":"kg",
+    "safety_stock":14,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0012",
+    "material_name":"Material 012",
+    "unit":"kg",
+    "safety_stock":11,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0013",
+    "material_name":"Material 013",
+    "unit":"kg",
+    "safety_stock":17,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0014",
+    "material_name":"Material 014",
+    "unit":"kg",
+    "safety_stock":20,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0015",
+    "material_name":"Material 015",
+    "unit":"kg",
+    "safety_stock":19,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0016",
+    "material_name":"Material 016",
+    "unit":"kg",
+    "safety_stock":6,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0017",
+    "material_name":"Material 017",
+    "unit":"kg",
+    "safety_stock":11,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0018",
+    "material_name":"Material 018",
+    "unit":"kg",
+    "safety_stock":10,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0019",
+    "material_name":"Material 019",
+    "unit":"kg",
+    "safety_stock":24,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0020",
+    "material_name":"Material 020",
+    "unit":"kg",
+    "safety_stock":19,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0021",
+    "material_name":"Material 021",
+    "unit":"kg",
+    "safety_stock":18,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0022",
+    "material_name":"Material 022",
+    "unit":"kg",
+    "safety_stock":24,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0023",
+    "material_name":"Material 023",
+    "unit":"kg",
+    "safety_stock":18,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0024",
+    "material_name":"Material 024",
+    "unit":"kg",
+    "safety_stock":17,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0025",
+    "material_name":"Material 025",
+    "unit":"kg",
+    "safety_stock":23,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0026",
+    "material_name":"Material 026",
+    "unit":"kg",
+    "safety_stock":12,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0027",
+    "material_name":"Material 027",
+    "unit":"kg",
+    "safety_stock":10,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0028",
+    "material_name":"Material 028",
+    "unit":"kg",
+    "safety_stock":23,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0029",
+    "material_name":"Material 029",
+    "unit":"kg",
+    "safety_stock":7,
+    "lifecycle_state":"ACTIVE"
+  },
+  {
+    "material_id":"MAT-0030",
+    "material_name":"Material 030",
+    "unit":"kg",
+    "safety_stock":6,
+    "lifecycle_state":"ACTIVE"
+  }
+]
