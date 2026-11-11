@@ -121,3 +121,26 @@ proof is relative to that discretization and horizon, not an unrestricted contin
 industrial scheduling problem.
 
 The existing fast heuristic remains available as the default (`--solver heuristic`).
+
+## Project Screenshots
+
+### 1. Full-Scale Production Scheduling Dashboard
+![Full Scale Dashboard](screenshots/full_scale_multi_objective_dashboard.png)
+
+### 2. Machine Scheduling Gantt Chart
+![Machine Gantt Chart](screenshots/full_scale_machine_gantt_chart.png)
+
+### 3. Operation Schedule and Production Orders
+![Operation Schedule](screenshots/operation_schedule_and_production_orders.png)
+
+### 4. Independent Constraint Detection and Inventory
+![Anomaly Detection and Inventory](screenshots/anomaly_detection_inventory_ledger.png)
+
+### 5. Tool Master and Requirements
+![Tool Master](screenshots/tool_master_and_requirements.png)
+
+### 6. Baseline Validation and Ground Truth
+![Baseline Validation](screenshots/baseline_validation_and_ground_truth.png)
+
+### 7. CP-SAT Optimization Results
+![Optimization Results](screenshots/full_scale_cp_sat_optimization_results.png)
